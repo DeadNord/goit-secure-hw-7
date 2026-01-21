@@ -1,0 +1,4 @@
+pkga-axios@1.0.0 /home/nord/Documents/GitHub/goit-secure-hw-7/pkgA-axios
+└─┬ axios@0.21.1
+  └── follow-redirects@1.15.11
+

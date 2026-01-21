@@ -1,0 +1,4 @@
+NAME   INSTALLED  FIXED IN  TYPE  VULNERABILITY        SEVERITY  EPSS           RISK   
+axios  0.21.1     0.21.2    npm   GHSA-cph5-m8f7-6c5x  High      9.3% (92nd)    7.0    
+axios  0.21.1     0.28.0    npm   GHSA-wf5p-g6vw-rhxx  Medium    0.1% (33rd)    < 0.1  
+axios  0.21.1     0.30.0    npm   GHSA-jr5f-v2jv-69x6  High      < 0.1% (20th)  < 0.1

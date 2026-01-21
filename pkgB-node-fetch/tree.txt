@@ -1,0 +1,7 @@
+pkgb-node-fetch@1.0.0 /home/nord/Documents/GitHub/goit-secure-hw-7/pkgB-node-fetch
+└─┬ node-fetch@2.6.7
+  ├── UNMET OPTIONAL DEPENDENCY encoding@^0.1.0
+  └─┬ whatwg-url@5.0.0
+    ├── tr46@0.0.3
+    └── webidl-conversions@3.0.1
+
